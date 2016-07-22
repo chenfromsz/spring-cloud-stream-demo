@@ -1,0 +1,1 @@
+curl -l -H "Content-type:application/json" -X POST -d '{"msg":"Hello","name":"RabbitMQ"}' http://localhost/send
